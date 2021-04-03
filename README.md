@@ -8,7 +8,7 @@ Percy is a chatbot with data on Greek Gods and Goddesses. The chatbot has a know
 
 The code can be run from an IDE (PyCharm, Visual Studio Code..etc) or terminal.
 
-Make sure to have the follow libraries and dependencies installed before running the code:
+Make sure to have the following libraries and dependencies installed before running the code:
 
 <img width="494" alt="Screen Shot 2021-04-03 at 5 55 18 PM" src="https://user-images.githubusercontent.com/56098361/113493562-dc366880-94a5-11eb-8cc2-1df58b09ed0b.png">
 
@@ -45,7 +45,7 @@ Percy is capable of carrying a limited conversation. To get the most out of Perc
 - Who is a Poseidon?
 - Who is the goddess of beauty?
 
-Sometimes, asking a question in a certain way will yield not results, but rewording the question may. For example, " Who did Hera marry" can be reworded as follows:
+Sometimes, asking a question in a certain way will not yield the correct results, but rewording the question may. For example, " Who did Hera marry" can be reworded as follows:
 - Who married Hera?
 - Who was Hera married to?
 
