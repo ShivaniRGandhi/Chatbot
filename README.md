@@ -32,7 +32,7 @@ Upon compiling, you should receive the following message:
 
 You are now ready to chat with Percy! Have fun!
 
-## Tips on How to ask Percy Questions
+## Tips on How to Ask Percy Questions
 
 Percy is capable of carrying a limited conversation. To get the most out of Percy, ask questions such as the following:
 - Who is Zeus?
@@ -59,3 +59,10 @@ Lastly, when all else fails in giving you the answer you want, try using the liv
 - Tell me about Hercules
 - Tell me about Medusa
 - Tell me about Artemis
+
+
+## Features of Percy
+
+Percy provides customized responses to the user, addressing them by their name and addressing the topics they input with each response.
+
+In addition, Percy keeps a user profile for each unique user. For each unique user, a text file is created in which the user's name and inputs are logged in order to keep track of usage.
