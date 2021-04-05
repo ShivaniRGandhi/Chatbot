@@ -12,6 +12,10 @@ Make sure to have the following libraries and dependencies installed before runn
 
 <img width="494" alt="Screen Shot 2021-04-03 at 5 55 18 PM" src="https://user-images.githubusercontent.com/56098361/113493562-dc366880-94a5-11eb-8cc2-1df58b09ed0b.png">
 
+NOTE: If running for the first time, you will also need to run the following two lines with the imports and dependencies:
+- nltk.download('punkt') 
+- nltk.download('wordnet')
+
 NOTE: If running the code through terminal, you may need to install wikipedia as follows:
 
 <img width="231" alt="Screen Shot 2021-04-03 at 6 02 12 PM" src="https://user-images.githubusercontent.com/56098361/113493658-0177a680-94a7-11eb-933f-a7b3baceae6c.png">
