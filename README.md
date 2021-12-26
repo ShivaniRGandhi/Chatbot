@@ -1,9 +1,5 @@
 # Percy the Chatbot
 
-Partners: 
-- Shivani Gandhi -- > SRG170000
-- Aashish Sharma -- > AXS170083
-
 ## Introduction
 
 Percy is a chatbot with data on Greek Gods and Goddesses. The chatbot has a knowledge base with basic information on who the Gods, Goddesses, and Monsters are. In addition, the bot makes use of the Wikipedia library in Python to perform live look ups for additional information on topics the user requests.
